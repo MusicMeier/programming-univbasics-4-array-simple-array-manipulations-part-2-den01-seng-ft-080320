@@ -4,7 +4,7 @@ end
 
 def using_insert (array, new_element)
   
- array.insert(new_element)
+ array.insert(4.new_element)
   
 end
 
